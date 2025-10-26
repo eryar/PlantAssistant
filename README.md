@@ -1,27 +1,31 @@
 # PlantAssistant
 
-Change RvmTranslator to PlantAssistant.
+PlantAssistant support to parse AVEVA PDMS/E3D RVM and SmartPlant3D VUE files and visualize its 3d model, and can convert them to GLTF, STEP files.
 
-RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Marine(Tribon) to STEP, IGES, STL, DXF, 3D PDF, OBJ, 3DXML, IFC,.etc. So it can be used for exchanging model data between other CAD software, such as Autodesk AutoCAD, Plant3d, 3ds Max, CATIA, Solidworks, Pro/E, Unity3d, DIALux, .etc.
+| Plant Design System | Model Files |
+| --------------------| ------------|
+| AVEVA PDMS/E3D      | RVM/ATT     |
+| Intergraph SmartPlant3D | VUE/(MDB2, XML) |
 
-![Spooler model](https://user-images.githubusercontent.com/8439181/160504316-5444bb7e-106f-44e2-9e2e-16d3534beb12.png)
+# AVEVA PDMS/E3D RVM
+![Spooler model](https://img2024.cnblogs.com/blog/534255/202510/534255-20251025171901508-305225204.png)
 
 ![Ship Hull](https://user-images.githubusercontent.com/8439181/160504860-f66f271a-389e-4f01-81fc-46c7d9b29c0e.png)
 
 ![RvmTranslator in Linux](https://user-images.githubusercontent.com/8439181/160504387-60373a51-8db4-41b5-a347-cbc894adc773.png)
 
-# Intergraph VUE
-RvmTranslator7.6.3 can import VUE of Intergraph SmartPlant3D.
-![MadisonPlant](https://user-images.githubusercontent.com/8439181/161260995-6c12ee35-4bb2-4cd1-95de-d9afb337b0f0.png)
+# SmartPlant3D VUE
+PlantAssistant can import VUE of Intergraph SmartPlant3D:
+![MadisonPlant](https://img2024.cnblogs.com/blog/534255/202510/534255-20251025171908723-848258663.png)
 
 ## Notice
-**RvmTranslator is not open source software. You can use 3D view function of RvmTranslator freely, other functions need pay for it.**
+**PlantAssistant is not open source software. You can use 3D view function of PlantAssistant freely, other functions need pay for it.**
 
-**RvmTranslator不是开源软件，但你可以免费使用3D浏览功能，其他功能需要付费才能使用。**
+**PlantAssistant 不是开源软件，但你可以免费使用3D浏览功能，其他功能需要付费才能使用。**
 
 ## Download
-You can download RvmTranslator from the following address:
-https://github.com/eryar/RvmTranslator/releases
+You can download PlantAssistant from the following address:
+https://github.com/eryar/PlantAssistant/releases
 
 ## Feedback
-Shing Liu (eryar@163.com)
+TUHE TEAM (whtuhe@qq.com)
