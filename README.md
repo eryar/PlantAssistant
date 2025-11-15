@@ -1,6 +1,6 @@
 # PlantAssistant
 
-PlantAssistant support to parse AVEVA PDMS/E3D RVM and SmartPlant3D VUE files and visualize its 3d model, and can convert them to GLTF, STEP files.
+PlantAssistant support to parse AVEVA PDMS/E3D RVM and SmartPlant3D VUE files, Piping data files, .etc, visualize its 3d model and can convert them to GLTF files.
 
 | Plant Design System | Model Files |
 | --------------------| ------------|
