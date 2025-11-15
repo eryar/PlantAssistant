@@ -6,6 +6,7 @@ PlantAssistant support to parse AVEVA PDMS/E3D RVM and SmartPlant3D VUE files an
 | --------------------| ------------|
 | AVEVA PDMS/E3D      | RVM/ATT     |
 | Intergraph SmartPlant3D | VUE/(MDB2, XML) |
+| Piping Data File | PCF,IDF|
 
 # AVEVA PDMS/E3D RVM
 <img width="1280" height="764" alt="Spooler" src="https://github.com/user-attachments/assets/d43c28ca-8327-44bd-80fc-33e1a86d4fbc" />
