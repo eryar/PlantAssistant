@@ -25,7 +25,7 @@ PlantAssistant can import VUE of Intergraph SmartPlant3D:
 **PlantAssistant 不是开源软件，但你可以免费使用3D浏览功能，其他功能需要付费才能使用。**
 
 ## Download
-If you want to test PlantAssistant please send email to: whtuhe@qq.com
+If you want to test PlantAssistant please send email: whtuhe@qq.com
 
 ## Feedback
 TUHE TEAM (whtuhe@qq.com)
