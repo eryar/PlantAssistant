@@ -20,12 +20,14 @@ PlantAssistant can import VUE of Intergraph SmartPlant3D:
 ![MadisonPlant](https://github.com/user-attachments/assets/ab631088-32c7-4f58-9af3-963d4eb50dea)
 
 ## Notice
-**PlantAssistant is not open source software. You can use 3D view function of PlantAssistant freely, other functions need pay for it.**
+**PlantAssistant is not open source software. You can use 3D view function of PlantAssistant freely.**
 
-**PlantAssistant 不是开源软件，但你可以免费使用3D浏览功能，其他功能需要付费才能使用。**
+**PlantAssistant 不是开源软件，但你可以免费使用3D浏览功能。**
 
 ## Download
 If you want to test PlantAssistant please send email: whtuhe@qq.com
+
+若想试用付费功能，可以联系我们：whtuhe@qq.com
 
 ## Feedback
 TUHE TEAM (whtuhe@qq.com)
